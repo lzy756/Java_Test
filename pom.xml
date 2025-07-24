@@ -122,6 +122,13 @@
             <artifactId>spring-beans</artifactId>
             <version>4.1.1.RELEASE</version>
         </dependency>
+
+        <!-- AspectJ Weaver -->
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+            <version>1.8.6</version>
+        </dependency>
     </dependencies>
 
     <build>
