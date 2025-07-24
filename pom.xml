@@ -109,6 +109,12 @@
             <version>1.14</version> <!-- 或其他适当版本 -->
         </dependency>
 
+        <dependency>
+            <groupId>com.mchange</groupId>
+            <artifactId>c3p0</artifactId>
+            <version>0.9.5.2</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
         <dependency>
             <groupId>org.springframework</groupId>
